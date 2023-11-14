@@ -1,0 +1,1 @@
+This is a test document for testing plagiarism check. I used cosine similarity to compute the similarity scores between the documents. This code used tf-idf score to convert the text to numerical vector using sklearn.feature_extraction.text library.
